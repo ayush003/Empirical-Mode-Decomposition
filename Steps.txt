@@ -1,0 +1,4 @@
+Steps to run the code:
+1. Open ekgsig.m in matlab
+2. Run ekgsig.m
+
